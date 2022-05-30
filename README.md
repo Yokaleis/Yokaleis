@@ -1,9 +1,9 @@
 <h1 align="center">Helloo 👋, I'm Yoka</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
-- 🔭 I’m currently working on [asistensi](https://asistensi.com/)
+- 🔭 I’m currently working on [Venemergencia]([https://asistensi.com/](https://venemergencia.com/))
 
-- 🌱 I’m currently learning **Flutter, Javascript**
+- 🌱 I’m currently learning **Javascript, Angular, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/Yokasta-Leis-e990ef3cf01d4b49bda2e87a524c2659](https://www.notion.so/Yokasta-Leis-e990ef3cf01d4b49bda2e87a524c2659)
 
