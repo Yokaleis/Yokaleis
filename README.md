@@ -1,7 +1,7 @@
 <h1 align="center">Helloo 👋, I'm Yoka</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
-- 🔭 I’m currently working on [Venemergencia]([https://venemergencia.com/]())
+- 🔭 I’m currently working on [Venemergencia]([https://venemergencia.com/])
 
 - 🌱 I’m currently learning **Javascript, Angular, Flutter**
 
