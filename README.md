@@ -1,23 +1,36 @@
-<h1 align="center">Helloo 👋, I'm Yoka</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
-
-- 🔭 I’m currently working on [Venemergencia]([https://venemergencia.com/])
-
-- 🌱 I’m currently learning **Javascript, Angular, Flutter**
-
-- 👨‍💻 All of my projects are available at [https://www.notion.so/Yokasta-Leis-e990ef3cf01d4b49bda2e87a524c2659](https://www.notion.so/Yokasta-Leis-e990ef3cf01d4b49bda2e87a524c2659)
-
-- 📫 How to reach me **yokaleis@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/yokaleis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yokaleis" height="30" width="40" /></a>
-<a href="https://twitter.com/yokaleis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yokaleis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yokaleis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yokaleis" height="30" width="40" /></a>
-<a href="https://instagram.com/yokaleis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yokaleis" height="30" width="40" /></a>
-<a href="https://dribbble.com/yokaleis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="yokaleis" height="30" width="40" /></a>
-<a href="https://www.behance.net/yokaleis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yokaleis" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+![Image text](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Feaac0769-666a-43af-97bd-501240289109%2F9ca3d137-b920-4515-8385-8a93a271f074%2FMinuevobanner.png?table=block&id=e990ef3c-f01d-4b49-bda2-e87a524c2659&spaceId=eaac0769-666a-43af-97bd-501240289109&width=2000&userId=cc2a59dd-7549-45e0-b276-45a2207762f9&cache=v2)
+<h1 align="left">Yokasta | Diseñadora UI & Desarrolladora Web</h1>
+        <div height: 2px; width: 100%; background-color: #EBEDEF;></div>
+        <section>
+            <p>Ingeniera en Informática con más de 4 años de experiencia en el campo del diseño, especializada en diseño de interfaz de usuario (UI). Actualmente desempeñándome como Diseñadora UI, combinando mi pasión por la estética con habilidades técnicas sólidas.</p>
+        </section>
+        <section>
+            <h2>Experiencia Profesional</h2>
+            <p>Diseñadora UI en Grupo Venemergencia - 2018 - Presente: Liderando proyectos de diseño de interfaces de usuario para aplicaciones web y móviles, colaborando estrechamente con equipos de desarrollo para garantizar la implementación efectiva de diseños centrados en el usuario.
+            </p>
+        </section>
+        <section>
+            <h2>Habilidades</h2>
+            <div>
+                <p>🎨Diseño de Interfaz de Usuario (UI)</p>
+                <ul>
+                    <li>Diseño Visual</li>
+                    <li>Figma (#FigmaLover ❤) y Adobe XD</li>
+                    <li>Prototipado</li>
+                    <li>Investigación de Usuarios</li>
+                    <li>Diseño Responsivo</li>
+                    <li>Colaboración y Comunicación</li>
+                    <li>Resolución de Problemas</li>
+                    <li>Actualización Continua</li>
+                </ul>
+            </div>
+            <div>
+                <p>👩🏽‍💻Desarrollo Frontend</p>
+                <ul>
+                    <li>HTML, CSS y JavaScript</li>
+                    <li>💜Aprendiendo React.js para mejorar la interactividad y la experiencia del usuario</li>
+                    <li>Control de Versiones</li>
+                    <li>Herramientas de Desarrollo</li>
+                </ul>
+            </div>
+        </section>
