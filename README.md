@@ -1,4 +1,4 @@
-![Image text](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Feaac0769-666a-43af-97bd-501240289109%2F9ca3d137-b920-4515-8385-8a93a271f074%2FMinuevobanner.png?table=block&id=e990ef3c-f01d-4b49-bda2-e87a524c2659&spaceId=eaac0769-666a-43af-97bd-501240289109&width=2000&userId=cc2a59dd-7549-45e0-b276-45a2207762f9&cache=v2)
+
 <h1 align="left">Yokasta | Diseñadora UI & Desarrolladora Web</h1>
         <div height: 2px; width: 100%; background-color: #EBEDEF;></div>
         <section>
